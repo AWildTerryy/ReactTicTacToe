@@ -1,0 +1,3 @@
+React Tic Tac Toe
+
+This is the tic tac toe game created by following the tutorial on https://reactjs.org/tutorial/tutorial.html. There are six(6) additonal add-ons without the tutorial listed at the end and this version has completed the first 4. When attempting 5, my solution seems to not render the board and requires more thought hence why the css file is also included as the only adjustment to this was just a css-selector called square-winning. It will be further explored until a working version is done and I assume add-on 6 will honestly be easier than 5 (probably just check if no squares are null). 
